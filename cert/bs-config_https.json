@@ -1,0 +1,14 @@
+{
+  "port": 443,
+  "files": [
+    "./**/*.{html,htm,css,js}"
+  ],
+  "server": {
+    "baseDir": "./dist"
+  },
+  "https": {
+    "key": "./cert/key.pem",
+    "cert": "./cert/cert.pem"
+  },
+  "open": false
+}

@@ -1,0 +1,13 @@
+{
+  "name": "lite-server",
+  "version": "1.0.0",
+  "description": "simple http server for testing",
+  "scripts": {
+    "start": "lite-server"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1"
+  }
+}
